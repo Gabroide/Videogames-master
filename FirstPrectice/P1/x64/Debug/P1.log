@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\tester\documents\repos\videogames-master\firstprectice\p1\main.cpp(7): warning C4930: 'Vector3<int> vecA(void)': no se ha llamado a la función prototipo (¿se pensó una definición de variable?)
+c:\users\tester\documents\repos\videogames-master\firstprectice\p1\vector3.h(44): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  c:\users\tester\documents\repos\videogames-master\firstprectice\p1\vector3.h(43): note: durante la compilación de la función miembro de plantilla clase de 'float Vector3<int>::distance_to(const Vector3<int> &)'
+  c:\users\tester\documents\repos\videogames-master\firstprectice\p1\main.cpp(21): note: vea la referencia a la creación de instancias de plantilla de función 'float Vector3<int>::distance_to(const Vector3<int> &)' que se está compilando
+  c:\users\tester\documents\repos\videogames-master\firstprectice\p1\main.cpp(9): note: vea la referencia a la creación de instancias de plantilla clase de 'Vector3<int>' que se está compilando
+c:\users\tester\documents\repos\videogames-master\firstprectice\p1\vector3.h(38): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  c:\users\tester\documents\repos\videogames-master\firstprectice\p1\vector3.h(37): note: durante la compilación de la función miembro de plantilla clase de 'Vector3<float> Vector3<int>::normalize(void)'
+  c:\users\tester\documents\repos\videogames-master\firstprectice\p1\main.cpp(18): note: vea la referencia a la creación de instancias de plantilla de función 'Vector3<float> Vector3<int>::normalize(void)' que se está compilando
+  String.cpp
+  Vector3.cpp
+  Generando código...
+  P1.vcxproj -> C:\Users\Tester\Documents\Repos\Videogames-master\FirstPrectice\x64\Debug\P1.exe
